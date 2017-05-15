@@ -1,0 +1,747 @@
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.k {
+  width: 190px;
+  height: 288px;
+  overflow: hidden;
+  padding: 10px 0;
+  border: 1px solid;
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 20px 0 0 20px;
+}
+.k .t div {
+  font-size: 25px;
+  color: #000000;
+}
+.k .picture {
+  margin: 11px 25px;
+  width: 140px;
+  height: 246px;
+  position: relative;
+}
+.k .picture .pic {
+  width: 140px;
+  height: 123px;
+  background: url('../image/pic.jpg') no-repeat 0 0;
+}
+.k .picture .pic1 {
+  transform: rotate(180deg);
+}
+.k .picture i {
+  float: left;
+  font-size: 50px;
+}
+.k .picture .right {
+  float: right;
+}
+.k .picture .top {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  top: 30px;
+}
+.k .picture .bottom {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: 30px;
+}
+.k .picture div {
+  width: 45px;
+}
+.k .tright {
+  transform: rotate(180deg);
+  position: absolute;
+  top: 220px;
+  left: 165px;
+}
+.k2 {
+  width: 190px;
+  height: 288px;
+  overflow: hidden;
+  padding: 10px 0;
+  border: 1px solid;
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 20px 0 0 20px;
+}
+.k2 .t div {
+  font-size: 25px;
+  color: #ff0000;
+}
+.k2 .picture {
+  margin: 11px 25px;
+  width: 140px;
+  height: 246px;
+  position: relative;
+}
+.k2 .picture .pic {
+  width: 140px;
+  height: 123px;
+  background: url('../image/pic.jpg') no-repeat -141px 0;
+}
+.k2 .picture .pic1 {
+  transform: rotate(180deg);
+}
+.k2 .picture i {
+  float: left;
+  font-size: 50px;
+}
+.k2 .picture .right {
+  float: right;
+}
+.k2 .picture .top {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  top: 30px;
+}
+.k2 .picture .bottom {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: 30px;
+}
+.k2 .picture div {
+  width: 45px;
+}
+.k2 .tright {
+  transform: rotate(180deg);
+  position: absolute;
+  top: 220px;
+  left: 165px;
+}
+.k3 {
+  width: 190px;
+  height: 288px;
+  overflow: hidden;
+  padding: 10px 0;
+  border: 1px solid;
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 20px 0 0 20px;
+}
+.k3 .t div {
+  font-size: 25px;
+  color: #ff0000;
+}
+.k3 .picture {
+  margin: 11px 25px;
+  width: 140px;
+  height: 246px;
+  position: relative;
+}
+.k3 .picture .pic {
+  width: 140px;
+  height: 123px;
+  background: url('../image/pic.jpg') no-repeat -281px 0;
+}
+.k3 .picture .pic1 {
+  transform: rotate(180deg);
+}
+.k3 .picture i {
+  float: left;
+  font-size: 50px;
+}
+.k3 .picture .right {
+  float: right;
+}
+.k3 .picture .top {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  top: 30px;
+}
+.k3 .picture .bottom {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: 30px;
+}
+.k3 .picture div {
+  width: 45px;
+}
+.k3 .tright {
+  transform: rotate(180deg);
+  position: absolute;
+  top: 220px;
+  left: 165px;
+}
+.k4 {
+  width: 190px;
+  height: 288px;
+  overflow: hidden;
+  padding: 10px 0;
+  border: 1px solid;
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 20px 0 0 20px;
+}
+.k4 .t div {
+  font-size: 25px;
+  color: #000000;
+}
+.k4 .picture {
+  margin: 11px 25px;
+  width: 140px;
+  height: 246px;
+  position: relative;
+}
+.k4 .picture .pic {
+  width: 140px;
+  height: 123px;
+  background: url('../image/pic.jpg') no-repeat -421px 0;
+}
+.k4 .picture .pic1 {
+  transform: rotate(180deg);
+}
+.k4 .picture i {
+  float: left;
+  font-size: 50px;
+}
+.k4 .picture .right {
+  float: right;
+}
+.k4 .picture .top {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  top: 30px;
+}
+.k4 .picture .bottom {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: 30px;
+}
+.k4 .picture div {
+  width: 45px;
+}
+.k4 .tright {
+  transform: rotate(180deg);
+  position: absolute;
+  top: 220px;
+  left: 165px;
+}
+.q {
+  width: 190px;
+  height: 288px;
+  overflow: hidden;
+  padding: 10px 0;
+  border: 1px solid;
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 20px 0 0 20px;
+}
+.q .t div {
+  font-size: 25px;
+  color: #000000;
+}
+.q .picture {
+  margin: 11px 25px;
+  width: 140px;
+  height: 246px;
+  position: relative;
+}
+.q .picture .pic {
+  width: 140px;
+  height: 123px;
+  background: url('../image/pic.jpg') no-repeat 0 -123px;
+}
+.q .picture .pic1 {
+  transform: rotate(180deg);
+}
+.q .picture i {
+  float: left;
+  font-size: 50px;
+}
+.q .picture .right {
+  float: right;
+}
+.q .picture .top {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  top: 30px;
+}
+.q .picture .bottom {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: 30px;
+}
+.q .picture div {
+  width: 45px;
+}
+.q .tright {
+  transform: rotate(180deg);
+  position: absolute;
+  top: 220px;
+  left: 165px;
+}
+.q2 {
+  width: 190px;
+  height: 288px;
+  overflow: hidden;
+  padding: 10px 0;
+  border: 1px solid;
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 20px 0 0 20px;
+}
+.q2 .t div {
+  font-size: 25px;
+  color: #ff0000;
+}
+.q2 .picture {
+  margin: 11px 25px;
+  width: 140px;
+  height: 246px;
+  position: relative;
+}
+.q2 .picture .pic {
+  width: 140px;
+  height: 123px;
+  background: url('../image/pic.jpg') no-repeat -140px -123px;
+}
+.q2 .picture .pic1 {
+  transform: rotate(180deg);
+}
+.q2 .picture i {
+  float: left;
+  font-size: 50px;
+}
+.q2 .picture .right {
+  float: right;
+}
+.q2 .picture .top {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  top: 30px;
+}
+.q2 .picture .bottom {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: 30px;
+}
+.q2 .picture div {
+  width: 45px;
+}
+.q2 .tright {
+  transform: rotate(180deg);
+  position: absolute;
+  top: 220px;
+  left: 165px;
+}
+.q3 {
+  width: 190px;
+  height: 288px;
+  overflow: hidden;
+  padding: 10px 0;
+  border: 1px solid;
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 20px 0 0 20px;
+}
+.q3 .t div {
+  font-size: 25px;
+  color: #ff0000;
+}
+.q3 .picture {
+  margin: 11px 25px;
+  width: 140px;
+  height: 246px;
+  position: relative;
+}
+.q3 .picture .pic {
+  width: 140px;
+  height: 123px;
+  background: url('../image/pic.jpg') no-repeat -282px -123px;
+}
+.q3 .picture .pic1 {
+  transform: rotate(180deg);
+}
+.q3 .picture i {
+  float: left;
+  font-size: 50px;
+}
+.q3 .picture .right {
+  float: right;
+}
+.q3 .picture .top {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  top: 30px;
+}
+.q3 .picture .bottom {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: 30px;
+}
+.q3 .picture div {
+  width: 45px;
+}
+.q3 .tright {
+  transform: rotate(180deg);
+  position: absolute;
+  top: 220px;
+  left: 165px;
+}
+.q4 {
+  width: 190px;
+  height: 288px;
+  overflow: hidden;
+  padding: 10px 0;
+  border: 1px solid;
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 20px 0 0 20px;
+}
+.q4 .t div {
+  font-size: 25px;
+  color: #000000;
+}
+.q4 .picture {
+  margin: 11px 25px;
+  width: 140px;
+  height: 246px;
+  position: relative;
+}
+.q4 .picture .pic {
+  width: 140px;
+  height: 123px;
+  background: url('../image/pic.jpg') no-repeat -420px -123px;
+}
+.q4 .picture .pic1 {
+  transform: rotate(180deg);
+}
+.q4 .picture i {
+  float: left;
+  font-size: 50px;
+}
+.q4 .picture .right {
+  float: right;
+}
+.q4 .picture .top {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  top: 30px;
+}
+.q4 .picture .bottom {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: 30px;
+}
+.q4 .picture div {
+  width: 45px;
+}
+.q4 .tright {
+  transform: rotate(180deg);
+  position: absolute;
+  top: 220px;
+  left: 165px;
+}
+.j {
+  width: 190px;
+  height: 288px;
+  overflow: hidden;
+  padding: 10px 0;
+  border: 1px solid;
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 20px 0 0 20px;
+}
+.j .t div {
+  font-size: 25px;
+  color: #000000;
+}
+.j .picture {
+  margin: 11px 25px;
+  width: 140px;
+  height: 246px;
+  position: relative;
+}
+.j .picture .pic {
+  width: 140px;
+  height: 123px;
+  background: url('../image/pic.jpg') no-repeat 1px -246px;
+}
+.j .picture .pic1 {
+  transform: rotate(180deg);
+}
+.j .picture i {
+  float: left;
+  font-size: 50px;
+}
+.j .picture .right {
+  float: right;
+}
+.j .picture .top {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  top: 30px;
+}
+.j .picture .bottom {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: 30px;
+}
+.j .picture div {
+  width: 45px;
+}
+.j .tright {
+  transform: rotate(180deg);
+  position: absolute;
+  top: 220px;
+  left: 165px;
+}
+.j2 {
+  width: 190px;
+  height: 288px;
+  overflow: hidden;
+  padding: 10px 0;
+  border: 1px solid;
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 20px 0 0 20px;
+}
+.j2 .t div {
+  font-size: 25px;
+  color: #ff0000;
+}
+.j2 .picture {
+  margin: 11px 25px;
+  width: 140px;
+  height: 246px;
+  position: relative;
+}
+.j2 .picture .pic {
+  width: 140px;
+  height: 123px;
+  background: url('../image/pic.jpg') no-repeat -140px -246px;
+}
+.j2 .picture .pic1 {
+  transform: rotate(180deg);
+}
+.j2 .picture i {
+  float: left;
+  font-size: 50px;
+}
+.j2 .picture .right {
+  float: right;
+}
+.j2 .picture .top {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  top: 30px;
+}
+.j2 .picture .bottom {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: 30px;
+}
+.j2 .picture div {
+  width: 45px;
+}
+.j2 .tright {
+  transform: rotate(180deg);
+  position: absolute;
+  top: 220px;
+  left: 165px;
+}
+.j3 {
+  width: 190px;
+  height: 288px;
+  overflow: hidden;
+  padding: 10px 0;
+  border: 1px solid;
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 20px 0 0 20px;
+}
+.j3 .t div {
+  font-size: 25px;
+  color: #ff0000;
+}
+.j3 .picture {
+  margin: 11px 25px;
+  width: 140px;
+  height: 246px;
+  position: relative;
+}
+.j3 .picture .pic {
+  width: 140px;
+  height: 123px;
+  background: url('../image/pic.jpg') no-repeat -281px -246px;
+}
+.j3 .picture .pic1 {
+  transform: rotate(180deg);
+}
+.j3 .picture i {
+  float: left;
+  font-size: 50px;
+}
+.j3 .picture .right {
+  float: right;
+}
+.j3 .picture .top {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  top: 30px;
+}
+.j3 .picture .bottom {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: 30px;
+}
+.j3 .picture div {
+  width: 45px;
+}
+.j3 .tright {
+  transform: rotate(180deg);
+  position: absolute;
+  top: 220px;
+  left: 165px;
+}
+.j4 {
+  width: 190px;
+  height: 288px;
+  overflow: hidden;
+  padding: 10px 0;
+  border: 1px solid;
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 20px 0 0 20px;
+}
+.j4 .t div {
+  font-size: 25px;
+  color: #000000;
+}
+.j4 .picture {
+  margin: 11px 25px;
+  width: 140px;
+  height: 246px;
+  position: relative;
+}
+.j4 .picture .pic {
+  width: 140px;
+  height: 123px;
+  background: url('../image/pic.jpg') no-repeat -421px -246px;
+}
+.j4 .picture .pic1 {
+  transform: rotate(180deg);
+}
+.j4 .picture i {
+  float: left;
+  font-size: 50px;
+}
+.j4 .picture .right {
+  float: right;
+}
+.j4 .picture .top {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  top: 30px;
+}
+.j4 .picture .bottom {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: 30px;
+}
+.j4 .picture div {
+  width: 45px;
+}
+.j4 .tright {
+  transform: rotate(180deg);
+  position: absolute;
+  top: 220px;
+  left: 165px;
+}
+.p10 {
+  width: 190px;
+  height: 288px;
+  overflow: hidden;
+  padding: 10px 0;
+  border: 1px solid;
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 20px 0 0 20px;
+}
+.p10 .t div {
+  font-size: 25px;
+  color: #000000;
+}
+.p10 .picture {
+  margin: 11px 25px;
+  width: 140px;
+  height: 246px;
+  position: relative;
+}
+.p10 .picture .pic {
+  width: 140px;
+  height: 123px;
+  background: url('../image/pic.jpg') no-repeat null null;
+}
+.p10 .picture .pic1 {
+  transform: rotate(180deg);
+}
+.p10 .picture i {
+  float: left;
+  font-size: 50px;
+}
+.p10 .picture .right {
+  float: right;
+}
+.p10 .picture .top {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  top: 30px;
+}
+.p10 .picture .bottom {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: 30px;
+}
+.p10 .picture div {
+  width: 45px;
+}
+.p10 .tright {
+  transform: rotate(180deg);
+  position: absolute;
+  top: 220px;
+  left: 165px;
+}
